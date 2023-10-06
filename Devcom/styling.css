@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+    flex-direction: column;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+    background: gray;
+}
+
+.navi{
+    background: gray;
+}
